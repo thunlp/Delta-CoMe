@@ -1,0 +1,12 @@
+__pycache__/
+./run.sh
+*.pdf
+*.pt
+*.log
+*.pth
+save_compressed/
+genetic
+data/
+figures/
+cu_kernel/
+Cosine

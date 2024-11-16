@@ -1,0 +1,12 @@
+accelerate==0.32.1
+datasets==2.18.0
+numpy==1.26.4
+pandas==2.2.1
+protobuf==3.20.2
+texttable==1.7.0
+tokenizers==0.15.2
+torch==2.0.1
+tqdm==4.66.2
+transformers==4.37.0
+triton==2.0.0
+toml
